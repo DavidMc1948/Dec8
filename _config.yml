@@ -1,0 +1,11 @@
+# basic options
+title: Tutorial exercise
+author: David McMullen
+email: your-email@domain.com
+description: This is a tutorial exercise from YouTube.
+twitter_username: jekyllrb
+github_username:  davidmc1948
+
+# Build settings
+markdown: kramdown
+theme: minima
